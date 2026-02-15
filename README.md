@@ -1,7 +1,7 @@
 # 🌟 NIANI - Photonic Neuromorphic Computer
 
-> *Named after the Mali empire capital "Niani"*  
-> *Resisting through innovation. Building African-led breakthrough technology.*
+> *Named after Niani, capital of the Mali Empire (13th-14th century)*  
+> *Honoring African intellectual legacy. Building breakthrough technology.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Early_Exploration-blue)]()
@@ -86,6 +86,7 @@ Conclusion: Si optimal for dense photonic circuits
 ---
 
 ## 🗓️ Roadmap Summary
+```
 2026-2027 : Learning (DIY gadgets, Bac S1)
 2027-2030 : Physics Bachelor (Lab components)
 2030-2033 : Photonics Master (Neural network)
@@ -117,10 +118,16 @@ Conclusion: Si optimal for dense photonic circuits
 
 **Why "NIANI"?**
 
-NIANI refers to a cultural resistance movement in Senegalese history, 
-symbolizing resilience and self-determination. This project embodies 
-**technological resistance** against Western tech dominance, pioneering 
-**African innovation** in photonics and AI.
+Niani was the **capital of the Mali Empire** (13th-14th century), one of the 
+greatest African civilizations. The city symbolized knowledge, trade, and 
+intellectual brilliance - home to scholars, scientists, and innovators.
+
+This project honors that legacy: **African innovation** in cutting-edge technology, 
+resisting Western tech dominance, and proving that breakthrough science can emerge 
+from anywhere.
+
+**Origin:** Dakar, Senegal 🇸🇳  
+**Spirit:** Niani's intellectual tradition continues
 
 ---
 
@@ -143,12 +150,12 @@ MIT License - See [LICENSE](LICENSE)
 
 ## 🙏 Inspirations
 
-- **Tim Berners-Lee** (Open Web)
+- **Cheikh Anta Diop** (African scientific renaissance, proving Africa's contributions to civilization)
+- **Nikola Tesla** (Visionary inventor, defied conventions, pioneered electrical engineering)
+- **Tim Berners-Lee** (Open Web, knowledge for all)
 - **Linus Torvalds** (Linux, global collaboration)
-- **Carver Mead** (Neuromorphic pioneer)
 - **All researchers** in photonics and computational neuroscience
--**Cheikh Anta Diop**
--**Nicolas Tesla**
+
 ---
 
 *Project started: February 15, 2026*  
