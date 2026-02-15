@@ -200,9 +200,7 @@ ez_silicon = simulate_material(12.0, "Silicon")
 
 ---
 
-## Images
 
-*(Upload your 3-panel comparison image here)*
 
 ---
 
