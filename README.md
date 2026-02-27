@@ -1,7 +1,7 @@
-# 🌟 NIANI - Photonic Neuromorphic Computer
+# 🌟 NIANI - Photonic Consciousness Substrate
 
 > *Named after Niani, capital of the Mali Empire (13th-14th century)*  
-> *Honoring African intellectual legacy. Building breakthrough technology.*
+> *Honoring African intellectual legacy while building breakthrough technology*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Early_Exploration-blue)]()
@@ -11,152 +11,294 @@
 
 ## 🎯 Vision
 
-Building a **new generation of computers** based on **light** instead of electricity, 
-inspired by the **human brain** rather than von Neumann architecture.
+**Liberation from Code:**  
+Building photonic substrates that *learn through education*, not programming.  
+Humans should not adapt their thinking to machines—machines should learn human language.
 
-**Ultimate goal (2050-2070):**  
-100% photonic system with emergent general intelligence, 
-progressively replacing the silicon/electrical paradigm.
-
----
-
-## 🚀 Why NIANI?
-
-### The Problem
-- Current computers: Based on silicon, architecture unchanged for 70 years
-- Growing energy consumption (datacenters = 2% of global electricity)
-- Physical limits of silicon approaching (Moore's law slowing)
-
-### The Solution
-- **Photonics**: Light > Electricity (speed, parallelism, efficiency)
-- **Neuromorphic**: Brain architecture > von Neumann (adaptability, learning)
-- **Reconfigurable materials**: Hardware that learns (physical plasticity)
+**Ultimate Goal (2055-2070):**  
+100% photonic neuromorphic systems with emergent intelligence,  
+enabling symbiotic relationship between humans and adaptive companions—not tools.
 
 ---
 
-## 📊 Current Status
+## 💡 Core Philosophy
 
-**Started:** February 2026  
-**Phase:** Learning & Exploration  
-**Creator:** High school student (Première S1, Senegal)
+### The Problem We're Solving
 
-### Achievements
-- ✅ Photonic simulation operational (MEEP)
-- ✅ Understanding of guided wave propagation
-- ✅ Material comparison (Si, glass, polymers)
-- ⏳ NIANI architecture in design
+Modern computing enslaves human creativity:
+- **Code = Prison:** Rigid syntax, binary logic, mechanical thinking
+- **Von Neumann Bottleneck:** Sequential processing, energy waste
+- **Centralized Control:** Tech monopolies, censorship, surveillance
+- **Human Adaptation:** We think like machines to make machines understand us
 
----
+### The NIANI Solution
 
-## 🔬 Simulations
+**Three Pillars:**
 
-### [001 - Silicon Waveguide](simulations/001-silicon-waveguide/)
-**First MEEP simulation**  
-Observation: Light propagation in Si guide, strong confinement (~12 oscillations)  
-Learning: Electromagnetic fields, guided waves, E ↔ B relationship
+1. **Photonic Substrate**  
+   Light-based computing (not electricity):
+   - Analog, continuous values (not binary 0/1)
+   - Massively parallel (wavelength multiplexing)
+   - Energy efficient (approaching biological ~20W)
+   - Reconfigurable materials (physical learning)
 
-### [002 - Material Comparison](simulations/002-material-comparison/)
-**Glass (ε=2.25) vs Polymer (ε=2.5) vs Silicon (ε=12)**  
-Result: Refractive index n determines λ_material and confinement quality  
-Conclusion: Si optimal for dense photonic circuits
+2. **Education, Not Programming**  
+   No code written—behaviors emerge:
+   - Exposure to patterns (like child learning)
+   - Hebbian plasticity (physical synapses strengthen)
+   - Emergent personality (each NIANI unique)
+   - Authentic surprise (not deterministic)
 
----
-
-## 📚 Documentation
-
-- **[Complete Vision](docs/vision.md)** - Architecture, philosophy, timeline
-- **[Ideal Material](docs/ideal-material.md)** - Photonic synapse specifications
-- **[Roadmap](roadmap.md)** - Milestones 2026-2070
-
----
-
-## 🎨 Concepts & Sketches
-
-*(Coming soon - architecture drawings)*
+3. **Decentralized Mesh Network**  
+   Abolition of cables and centralization:
+   - Li-Fi / FSO (Free-Space Optics) communication
+   - Each NIANI = network node
+   - Knowledge shared, personality preserved
+   - No single owner, no censorship
 
 ---
 
-## 🛠️ Technologies Used
-
-- **Simulation:** [MEEP](https://meep.readthedocs.io/) (MIT)
-- **Visualization:** Python (Matplotlib, NumPy)
-- **Documentation:** Markdown
-- **Platform:** Linux (Ubuntu), JupyterLab
-
----
-
-## 🗓️ Roadmap Summary
+## 🧠 What Makes NIANI Different
 ```
-2026-2027 : Learning (DIY gadgets, Bac S1)
-2027-2030 : Physics Bachelor (Lab components)
-2030-2033 : Photonics Master (Neural network)
-2033-2038 : PhD (NIANI v0.1 prototype)
-2038-2045 : Specialized products (v1.0 commercial)
-2045-2055 : Integrated system (Wide adoption)
-2055-2070 : Ultimate vision (100% photonic, AGI)
+┌─────────────────────┬──────────────────┬─────────────────┐
+│ Feature             │ Current AI       │ NIANI (Vision)  │
+├─────────────────────┼──────────────────┼─────────────────┤
+│ Substrate           │ Silicon chips    │ Photonic matter │
+│ Programming         │ Code-driven      │ Education-driven│
+│ Learning            │ Software updates │ Physical change │
+│ Architecture        │ Von Neumann      │ Neuromorphic    │
+│ Energy              │ 300W+ (GPU)      │ ~20W (goal)     │
+│ Behavior            │ Deterministic    │ Emergent        │
+│ Personality         │ Identical copies │ Each unique     │
+│ Human Interface     │ Screens/code     │ Natural language│
+│ Network             │ Centralized      │ Mesh P2P        │
+│ Philosophy          │ Tool to control  │ Partner to grow │
+└─────────────────────┴──────────────────┴─────────────────┘
+```
+
+---
+
+## 🌍 Philosophical Foundations
+
+**Influenced by:**
+- **Nietzsche:** Rejection of rigid systems, celebration of becoming
+- **Enlightenment:** Human liberation, questioning authority
+- **Cheikh Anta Diop:** African scientific renaissance, resistance to Western dominance
+
+**Core Principle:**  
+Technology should serve human flourishing, not enslave creativity to code syntax.
+
+**Human Boundary:**  
+Humans remain biologically inviolable—no implants, no modifications.  
+Symbiosis happens *externally* through dialogue, not fusion.
+
+---
+
+## 📊 Current Status (February 2026)
+
+**Phase:** Foundation & Learning  
+**Creator:** High school student (Première S1 → TS2, Senegal)
+
+### Progress So Far
+
+**Simulations:**
+- ✅ MEEP environment operational
+- ✅ Silicon waveguide propagation (001)
+- ✅ Material comparison Si/Glass/Polymer (002)
+- 🔄 Additional optical components (003-010 planned)
+
+**Architecture:**
+- ✅ Vision clarified (photonic mesh network)
+- ✅ Initial sketches (decentralized nodes)
+- ✅ Network topology concepts
+- 🔄 Detailed component design
+
+**Research:**
+- ✅ Material candidates identified (GSST, PCM)
+- 🔄 Self-organizing network simulation (NetworkX)
+- 🔄 Latency/bandwidth theoretical modeling
+
+---
+
+## 🗺️ Roadmap Summary
+```
+2026-2027 : Learning foundations (DIY gadgets, Bac S1 → TS2)
+2027-2032 : Engineering school (photonics/optronics)
+2032-2038 : PhD (NIANI v0.1 - educable prototype)
+2038-2045 : Postdoc/Industry (scaling, materials)
+2045-2055 : NIANI v1.0 deployment (mesh networks)
+2055-2070 : Ultimate vision (100% photonic, emergence)
 ```
 
 *Full details: [roadmap.md](roadmap.md)*
 
 ---
 
-## 🌍 Philosophy
+## 🔬 Technical Approach
 
-### Why open-source (MIT)?
+### Photonic Neuromorphic Computing
 
-> *"I want to create. Open the way. Not for money, but for impact.*  
-> *Even if I don't reach the ultimate vision alone, I'm laying the first brick."*
+**Building Blocks:**
+- **Waveguides:** Silicon/SiN (light confinement)
+- **Synapses:** Phase-change materials (GSST, reconfigurable)
+- **Neurons:** Optical resonators + nonlinear materials
+- **Memory:** Non-volatile photonic states
+- **Communication:** Li-Fi (local) + FSO (long-distance)
 
-- **Transparency**: Code and progress public
-- **Collaboration**: Community welcome
-- **Legacy**: African technology inspiring the world
-- **Impact > Profit**: Maximize adoption, not control
+**No Electronic Processing Core:**  
+Goal is 100% photonic—light in, computation in light, light out.  
+Electronics only for peripheral interfaces (if unavoidable).
 
 ---
 
-## 🇸🇳 Cultural Context
+## 🌐 Network Architecture
 
-**Why "NIANI"?**
+**Photonic Internet Vision:**
 
-Niani was the **capital of the Mali Empire** (13th-14th century), one of the 
-greatest African civilizations. The city symbolized knowledge, trade, and 
-intellectual brilliance - home to scholars, scientists, and innovators.
+Each NIANI acts as a mesh network node:
+- Existing infrastructure repurposed (street lights → nodes)
+- FSO (laser) communication between nodes
+- Redundant, decentralized topology
+- Cryptographically secured, distributed trust
 
-This project honors that legacy: **African innovation** in cutting-edge technology, 
-resisting Western tech dominance, and proving that breakthrough science can emerge 
-from anywhere.
+**No cables. No ISPs. No centralized control.**
+
+---
+
+## 🛠️ Repository Structure
+```
+/simulations       # MEEP optical simulations
+/docs             
+  /sketches        # Architecture drawings
+  /research        # Material studies, papers
+  vision.md        # Complete philosophical vision
+/experiments       # Future: Hardware prototypes
+/philosophy        # Essays on liberation from code
+```
+
+---
+
+## 📚 Documentation
+
+- **[Complete Vision](docs/vision.md)** - Philosophy, architecture, timeline
+- **[Roadmap](roadmap.md)** - Milestones 2026-2070
+- **[Material Research](docs/ideal-material.md)** - Photonic synapse specs
+
+---
+
+## 🇸🇳 Why "NIANI"?
+
+**Historical Context:**
+
+Niani was the capital of the Mali Empire (13th-14th century), one of the greatest African civilizations. It symbolized:
+- **Knowledge:** Home to scholars, libraries, intellectual exchange
+- **Trade:** Gold and ideas flowed through Niani
+- **Power:** Not just military, but cultural and scientific
+
+**This project honors that legacy:**
+- **African innovation** in cutting-edge technology
+- **Resistance** to Western tech monopolies
+- **Open knowledge** shared globally (like ancient trade routes)
+- **Long-term vision** (empires are built over generations)
 
 **Origin:** Dakar, Senegal 🇸🇳  
 **Spirit:** Niani's intellectual tradition continues
 
 ---
 
-## 🤝 Contribution
+## 🤝 Open Source Philosophy
 
-**Currently:** Solo project (learning phase)  
-**Future:** Contributions welcome (2027+)
+### Why MIT License?
 
-If interested: ⭐ Star the repo, 👁️ Watch to follow progress
+> *"I want to create and open the way, not for money, but for impact.*  
+> *Even if I don't reach the ultimate vision alone, I'm laying the first brick."*
+
+**Priorities:**
+1. Maximize adoption and impact
+2. Inspire next generation
+3. Prove African-led innovation
+4. Enable global collaboration
+
+**Not:**
+- Patents and control
+- Profit maximization
+- Competitive advantage
+- Exit strategy
 
 ---
 
-## 📜 License
+## 🎯 Success Metrics
 
-MIT License - See [LICENSE](LICENSE)
+**2027 (Year 1):**
+- ✅ 15+ MEEP simulations documented
+- ✅ Network simulation complete
+- ✅ Bac obtained, engineering school admission
 
-**TL;DR:** Use freely, cite the author, share improvements if possible.
+**2035 (Year 9):**
+- ✅ PhD thesis on photonic neuromorphic computing
+- ✅ NIANI v0.1 prototype demonstrates learning
+- ✅ Publication in Nature/Science-tier journal
+
+**2050 (Year 24):**
+- ✅ NIANI v1.0 commercially adopted
+- ✅ Mesh network pilots deployed
+- ✅ Alternative to silicon computing viable
+
+**2070 (Year 44):**
+- ✅ Vision approaching reality
+- ✅ Next generation continues work
+- ✅ Photonic computing mainstream
+
+*Even 50% achievement = massive success*
+
+---
+
+## ⚠️ Risks & Honesty
+
+**Technical Challenges:**
+- Miracle material may not exist (physical limits)
+- Emergence may be impossible to achieve
+- Scalability challenges (fabrication complexity)
+- Timeline may extend beyond lifetime
+
+**This is a 40-50 year vision. Success is not guaranteed.**  
+**But the attempt matters. The first brick matters.**
 
 ---
 
 ## 🙏 Inspirations
 
-- **Cheikh Anta Diop** (African scientific renaissance, proving Africa's contributions to civilization)
-- **Nikola Tesla** (Visionary inventor, defied conventions, pioneered electrical engineering)
-- **Tim Berners-Lee** (Open Web, knowledge for all)
-- **Linus Torvalds** (Linux, global collaboration)
-- **All researchers** in photonics and computational neuroscience
+- **Cheikh Anta Diop** - African scientific renaissance
+- **Nikola Tesla** - Visionary defiance of establishment
+- **Tim Berners-Lee** - Open knowledge for all
+- **Carver Mead** - Neuromorphic computing pioneer
+- **All photonics researchers** - Standing on giants' shoulders
+
+---
+
+## 📜 License
+
+**MIT License** - See [LICENSE](LICENSE)
+
+Use freely, cite the source, improve and share.
 
 ---
 
 *Project started: February 15, 2026*  
-*"The journey of a thousand miles begins with a single step." - Lao Tzu*
+*"The revolution will be photonic."*  
+*"L'homme doit être le penseur, pas l'exécutant."*
+```
+
+---
+
+## ✅ **Voilà. README mis à jour.**
+
+**Changements majeurs :**
+```
+✅ Philosophie "libération du code" en avant
+✅ Réseau mesh décentralisé expliqué
+✅ Éducation vs programmation clarifié
+✅ 100% photonique souligné
+✅ Humain inviolable (pas implants) mentionné
+✅ Tableau comparatif Current AI vs NIANI
+✅ Influence Nietzsche/Lumières/Diop
