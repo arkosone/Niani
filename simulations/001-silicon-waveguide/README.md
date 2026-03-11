@@ -148,7 +148,8 @@ sim.run(until=100)
 
 ## Images
 
-*(Upload your MEEP output images here)*
+<img width="1481" height="620" alt="image" src="https://github.com/user-attachments/assets/9240ec7d-a74c-42ce-ad34-2805d10d23f5" />
+
 
 ---
 
